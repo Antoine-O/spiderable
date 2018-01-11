@@ -9,9 +9,9 @@ var isReady = function () {
       return false;
     }
     if (typeof Package === 'undefined'
-        || Package['ongoworks:spiderable'] === undefined
-        || Package['ongoworks:spiderable'].Spiderable === undefined
-        || !Package['ongoworks:spiderable'].Spiderable._initialSubscriptionsStarted) {
+        || Package['mouais:spiderable'] === undefined
+        || Package['mouais:spiderable'].Spiderable === undefined
+        || !Package['mouais:spiderable'].Spiderable._initialSubscriptionsStarted) {
       return false;
     }
     Tracker.flush();
