@@ -1,9 +1,5 @@
-`meteor add ongoworks:spiderable`
+forked from ongoworks/spiderable
 
-# spiderable
+# change
 
-Uses port as set in meteor port and /tmp/ files instead of `/dev/stdin`
-
-# requirements
-
-Install [Phantomjs](http://phantomjs.org/) on your system.
+Allow JSON-LD in header
