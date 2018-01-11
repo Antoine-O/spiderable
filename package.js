@@ -1,5 +1,5 @@
 Package.describe({
-  name: "ao:spiderable",
+  name: "mouais:spiderable",
   summary: "Docker + Port friendly Spiderable package with JSON-LD support",
   version: "1.0.0",
   git: "https://github.com/Antoine-O/spiderable"
