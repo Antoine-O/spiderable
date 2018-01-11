@@ -1,8 +1,8 @@
 Package.describe({
-  name: "ongoworks:spiderable",
-  summary: "Docker + Port friendly Spiderable package",
-  version: "1.0.7",
-  git: "https://github.com/ongoworks/spiderable"
+  name: "ao:spiderable",
+  summary: "Docker + Port friendly Spiderable package with JSON-LD support",
+  version: "1.0.0",
+  git: "https://github.com/Antoine-O/spiderable"
 });
 
 Package.on_use(function (api) {
